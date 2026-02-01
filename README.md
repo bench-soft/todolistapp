@@ -1,4 +1,9 @@
-# Welcome to your Expo app 👋
+- Add, edit, and delete tasks  
+- Toggle tasks as Completed / Done  
+- Completed tasks are **strikethrough and faded**  
+- Tasks are saved locally with **AsyncStorage** so they persist after app closes  
+- Simple and clean UI (twrnc + React Native)
+
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
